@@ -35,13 +35,6 @@ You can find all the starter files in `starter_files` branch. You can to go to t
 
 - Basic HTML, CSS
 
-## Developer team of Shaif's Cuisine
-
-- Shaif Arfan
-- Anwar saeed
-- MD Moniruzzaman Sojol
-- Lovekesh Pal
-- Houmayan Rashid Chy
 
 ## Tools Used
 
